@@ -2,7 +2,7 @@
 
 what is this  ? 
 
-ymap file for diving scripts, includes a chest placement and some underwater models like sunekn cars / rubble and consruction equipment.
+ymap file for diving scripts, includes a chest placement and some underwater models like sunken cars / rubble and consruction equipment.
 
 Coords : 
 
